@@ -4,6 +4,8 @@ This is a simple, untextured raycasting engine built with [Reprocessing](https:/
 
 ![alt text](./assets/screenshot.png "screenshot")
 
+![alt text](./assets/playing.gif "playing")
+
 ### Install
 
 ```
