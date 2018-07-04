@@ -34,6 +34,6 @@ You can use to arrow keys to navigate through the world.
 
 ### Changing the layout
 
-If you want to change the change the map layout, you can do so by changing the values in the `worldMap array`. `0` means empty space, `1`, `2`, `3` are different colored walls.
+If you want to change the change the map layout, you can do so by changing the values in the `worldMap array`. `0` means empty space, `1` is a wall.
 
 Knock yourself out!
