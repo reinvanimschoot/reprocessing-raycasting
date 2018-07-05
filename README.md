@@ -6,6 +6,14 @@ This is a simple, untextured raycasting engine built with [Reprocessing](https:/
 
 ![alt text](./assets/playing.gif "playing")
 
+### Sources/Bibliography
+
+- [Lode's Computer Graphics Tutorial - Raycasting](https://lodev.org/cgtutor/raycasting.html)
+- [Ray-Casting Tutorial For Game Development And Other Purposes by F. Permadi ](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
+- [A first-person engine in 265 lines by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+
+(and Some Khan academy videos on Vector math)
+
 ### Install
 
 ```
